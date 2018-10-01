@@ -4,3 +4,4 @@ let NERDTreeShowHidden=1
 colorscheme desert
 set tabstop=4
 set shiftwidth=4
+set nu
