@@ -5,3 +5,4 @@ colorscheme desert
 set tabstop=4
 set shiftwidth=4
 set nu
+set clipboard=unnamed
